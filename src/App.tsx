@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Order from './routes/Order';
-import Admin from './routes/admin';
+import Admin from './routes/Admin';
 
 export default function App() {
   return (
